@@ -2,7 +2,7 @@
 
 A comprehensive literature review examining how LLM-powered multimodal systems are designed, deployed, and evaluated for understanding human social behavior.
 
-**Curated by:** [Zihan Liu](https://zihan.page/), Parisa Rabbani, Veda Duddu, Kyle Fan, Madison Lee, and [Yun Huang](https://yun.web.illinois.edu/)
+**Curated by:** Zihan Liu, Parisa Rabbani, Veda Duddu, Kyle Fan, Madison Lee, and Yun Huang
 **Affiliation:** University of Illinois Urbana-Champaign
 **arXiv:** [2510.23947](https://arxiv.org/abs/2510.23947)
 
