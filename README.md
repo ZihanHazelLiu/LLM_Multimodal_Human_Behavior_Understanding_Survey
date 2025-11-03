@@ -2,7 +2,9 @@ A collection of papers and resources related to Large Language Models.
 
 The organization of papers refers to our survey "Toward Socially-Aware LLMs: A Survey of Multimodal Approaches to Human Behavior Understanding."
 
-Please let us know if you find out a mistake or have any suggestions by e-mail: 
+**The repository is under active development.**
+
+Please let us know if you find out a mistake or have any suggestions by e-mail: zihanl18@illinois.edu
 
 
 If you find our survey useful for your research, please cite the following paper:
