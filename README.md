@@ -1,6 +1,6 @@
-# Toward Socially-Aware LLMs: A Survey of Multimodal Approaches to Human Behavior Understanding
+# The Social Gaze of LLMs: A Literature Review of Multimodal Approaches to Human Behavior Understanding
 
-A comprehensive literature review examining how LLM-powered multimodal systems are designed, deployed, and evaluated for understanding human social behavior.
+A comprehensive literature review examining how LLM-powered multimodal systems are designed, deployed, and evaluated for understanding human behavior.
 
 **Curated by:** Zihan Liu, Parisa Rabbani, Veda Duddu, Kyle Fan, Madison Lee, and Yun Huang
 **Affiliation:** University of Illinois Urbana-Champaign
@@ -10,14 +10,14 @@ A comprehensive literature review examining how LLM-powered multimodal systems a
 
 ## Overview
 
-This repository organizes **176 peer-reviewed publications** across AI, HCI, education, and healthcare venues that employ LLM-powered multimodal systems to interpret human social behavior. The collection reflects a systematic literature review using a four-dimensional coding framework (application, technical, evaluative, and ethical perspectives) to synthesize research on social intelligence in AI systems.
+This repository organizes **176 peer-reviewed publications** across technical venues in AI and applied communities such as HCI, education, and healthcare. Specifically, we examine the papers that employ LLM-powered multimodal systems to interpret human behavior. The collection reflects a systematic literature review using a four-dimensional coding framework (application, technical, evaluative, and ethical perspectives) to synthesize research on multimodal human behavior understanding in AI systems.
 
 ### Key Questions Addressed
 
-- **RQ1 (Application):** What social intelligence capabilities are applied across different domains?
-- **RQ2 (Technical):** How is social intelligence technically operationalized?
-- **RQ3 (Evaluative):** How are these systems evaluated?
-- **RQ4 (Ethical):** What ethical challenges and risks are identified?
+- **RQ1 (Application):** What is the application scope of LLM-powered multimodal systems for human behavior understanding in terms of target behaviors, interaction contexts, and operationalized social competencies?
+- **RQ2 (Technical):** How are LLM-powered multimodal systems technically operationalized for human behavior understanding?
+- **RQ3 (Evaluative):** What methodologies and metrics are employed to evaluate the performance of LLM-powered multimodal systems in understanding human behavior?
+- **RQ4 (Ethical):** What are the primary ethical challenges and risks associated with developing and deploying LLM-powered multimodal systems for human behavior understanding?
 
 ---
 
